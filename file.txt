@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+hi  hw are you hjd nfncsdsm 
+=======
+hi  hw are you
+>>>>>>> parent of b5ed774 (upadted 3)
+=======
+hi  hw are you
+>>>>>>> parent of b5ed774 (upadted 3)
